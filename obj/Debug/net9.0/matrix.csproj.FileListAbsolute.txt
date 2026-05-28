@@ -12,3 +12,4 @@ C:\Users\50436702827\Desktop\workspace\LP\matrix\obj\Debug\net9.0\refint\matrix.
 C:\Users\50436702827\Desktop\workspace\LP\matrix\obj\Debug\net9.0\matrix.pdb
 C:\Users\50436702827\Desktop\workspace\LP\matrix\obj\Debug\net9.0\matrix.genruntimeconfig.cache
 C:\Users\50436702827\Desktop\workspace\LP\matrix\obj\Debug\net9.0\ref\matrix.dll
+C:\Users\50436702827\Desktop\workspace\LP\matrix\obj\Debug\net9.0\matrix.sourcelink.json

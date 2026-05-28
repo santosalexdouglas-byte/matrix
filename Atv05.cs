@@ -8,7 +8,7 @@ for (int linha = 0; linha < 3; linha++)
     for (int coluna = 0; coluna < 2; coluna++)
     {
         Console.Write("Digite a nota: ");
-        notas[linha, coluna] = Convert.ToDouble(Console.ReadLine());
+        notas[linha, coluna] = int.Parse(Console.ReadLine());
 
         soma += notas[linha, coluna];
     }

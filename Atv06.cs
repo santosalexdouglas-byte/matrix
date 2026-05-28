@@ -12,7 +12,7 @@ for (int linha = 0; linha < 2; linha++)
     for (int coluna = 0; coluna < 3; coluna++)
     {
         Console.Write("Digite um numero: ");
-         numero[linha, coluna] = Convert.ToInt32(Console.ReadLine()); 
+         numero[linha, coluna] = int.Parse(Console.ReadLine()); 
 
          if (numero[linha, coluna] > maior)
          {

@@ -12,7 +12,7 @@ for (int linha = 0; linha < 2; linha++)
     for (int coluna = 0; coluna < 2; coluna++)
     {
       Console.WriteLine("Digite um numero: ");
-      nomes[linha, coluna] = Convert.ToInt32(Console.ReadLine()); 
+      nomes[linha, coluna] = int.Parse(Console.ReadLine()); 
 
       soma += numero[linha, coluna]
     }
